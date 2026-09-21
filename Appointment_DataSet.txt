@@ -1,0 +1,21 @@
+id_cita,fecha,hora,pet_id,motivo,asignación,estado
+APT-101,2026-08-30,09:00 AM,1,Vacunación anual,Dr. Smith,Completa
+APT-102,2026-09-07,10:30 AM,2,Chequeo Dental,Dr. Davis,Agendada
+APT-103,2026-09-15,11:00 AM,3,Revisión de Cadera,Dra. Gomez,Agendada
+APT-104,2026-09-16,02:00 PM,4,Desparasitación,Dr. Smith,Agendada
+APT-105,2026-09-17,08:30 AM,5,Vacuna Antirrábica,Dra. Gomez,Agendada
+APT-106,2026-09-18,04:00 PM,6,Limpieza de Oídos,Dr. Davis,Agendada
+APT-107,2026-09-19,10:00 AM,7,Corte de Uñas y Estética,Dr. Smith,Agendada
+APT-108,2026-09-20,01:15 PM,8,Revisión Dermatológica,Dra. Gomez,Agendada
+APT-109,2026-09-21,03:30 PM,9,Esterilización,Dr. Davis,Agendada
+APT-110,2026-09-22,09:45 AM,10,Control de Peso,Dr. Smith,Agendada
+APT-111,2026-09-23,12:00 PM,11,Vacuna Triple Felina,Dra. Gomez,Agendada
+APT-112,2026-09-24,05:00 PM,12,Electrocardiograma,Dr. Davis,Agendada
+APT-113,2026-09-25,11:30 AM,13,Revisión General,Dr. Smith,Agendada
+APT-114,2026-09-26,02:30 PM,14,Perfil Bioquímico,Dra. Gomez,Agendada
+APT-115,2026-09-27,08:00 AM,15,Evaluación Conductual,Dr. Davis,Agendada
+APT-116,2026-09-28,10:00 AM,16,Radiografía de Pata,Dr. Smith,Agendada
+APT-117,2026-09-29,01:00 PM,17,Limpieza Dental,Dra. Gomez,Agendada
+APT-118,2026-09-30,03:00 PM,18,Control de Parásitos,Dr. Davis,Agendada
+APT-119,2026-10-01,09:30 AM,19,Chequeo Cachorro,Dr. Smith,Agendada
+APT-120,2026-10-02,11:15 AM,20,Corte de Pelo Clínico,Dra. Gomez,Agendada

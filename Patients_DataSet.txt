@@ -1,0 +1,21 @@
+pet_id,nombre,especie,raza,edad,nombre_del_dueño,teléfono_del_dueño,esquema_de_vacunación,status
+1,Luna,Perro,Golden Retriever,4,Maria Garcia,+52-55-5550192,True,Active
+2,Oliver,Gato,Siamese,2,Carlos Gomez,+52-33-5550143,False,Active
+3,Max,Perro,Pastor Aleman,5,Ana Martinez,+52-81-5550188,True,Active
+4,Milo,Gato,Persa,3,Luis Rodriguez,+52-22-5550112,True,Active
+5,Bella,Perro,Poodle,1,Sofia Lopez,+52-99-5550175,False,Active
+6,Rocky,Perro,Bulldog Frances,2,Jorge Hernandez,+52-66-5550134,True,Active
+7,Simba,Gato,Maine Coon,4,Elena Perez,+52-44-5550166,True,Active
+8,Coco,Perro,Chihuahua,6,Fernando Torres,+52-77-5550129,False,Active
+9,Nala,Gato,Bengala,1,Lucia Sanchez,+52-98-5550150,True,Active
+10,Toby,Perro,Beagle,3,Gabriel Ramirez,+52-33-5550199,True,Active
+11,Mia,Gato,Ragdoll,5,Carmen Flores,+52-55-5550101,False,Active
+12,Bruno,Perro,Boxer,4,Ricardo Rivera,+52-81-5550122,True,Active
+13,Lola,Perro,Dachshund,2,Patricia Gomez,+52-22-5550144,True,Active
+14,Felix,Gato,Comun Europeo,7,Alejandro Diaz,+52-44-5550183,True,Active
+15,Zeus,Perro,Rottweiler,3,Valeria Cruz,+52-99-5550137,False,Active
+16,Sasha,Perro,Husky Siberiano,5,Roberto Morales,+52-66-5550161,True,Active
+17,Garfio,Gato,Sphynx,2,Claudia Reyes,+52-77-5550177,True,Active
+18,Thor,Perro,Doberman,4,Daniel Alvarez,+52-98-5550108,False,Active
+19,Chloe,Gato,British Shorthair,1,Vanessa Castillo,+52-55-5550195,True,Active
+20,Bambi,Perro,Shih Tzu,3,Hugo Mendoza,+52-33-5550119,True,Active

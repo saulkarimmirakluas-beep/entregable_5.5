@@ -1,0 +1,22 @@
+pet_id,num_cita,fecha,diagnóstico,tratamientos,notas
+1,1,2025-11-10,Chequeo médico,Vacuna rabia,Paciente con buena salud
+1,2,2026-08-30,Vacunación anual,Múltiple canina,Esquema al día
+2,1,2026-03-15,Infección de oído,Gotas para oídos,Revisar en 2 semanas
+3,1,2026-01-20,Displasia leve,Condroprotectores,Evitar saltos altos
+4,1,2025-12-05,Bolas de pelo,Pasta de malta,Cepillado diario recomendado
+5,1,2026-02-14,Gastroenteritis,Suero oral | Dieta blanda,Evolución favorable
+6,1,2026-04-10,Alergia cutánea,Champú medicado,Controlar polvo en casa
+7,1,2025-09-18,Chequeo de rutina,Desparasitante,Peso ideal
+8,1,2026-05-22,Sarro dental leve,Gel antiséptico,Programar limpieza
+9,1,2026-06-30,Consulta cachorro,Vacuna de prima,Muy activo
+10,1,2026-01-11,Conjuntivitis,Colirio oftálmico,Aplicar cada 8 horas
+11,1,2025-10-05,Control de peso,Cambio de alimento,Sobrepeso de 500g
+12,1,2026-07-04,Soplito cardíaco leve,Monitoreo suplementario,Sin síntomas de fatiga
+13,1,2026-03-01,Corte de uñas encarnada,Curación local,Sanado totalmente
+14,1,2025-08-12,Insuficiencia renal leve,Comida Renal,Monitorear consumo de agua
+15,1,2026-02-28,Herida en pata,Vendaje | Antiséptico,Cicatrizando bien
+16,1,2026-05-15,Cojera temporal,Antiinflamatorio,Reposo por 5 días
+17,1,2026-06-18,Piel seca,Suplemento Omega 3,Mejora en pelaje
+18,1,2025-11-30,Garrapatas,Pipeta antiparasitaria,Tratamiento completo
+19,1,2026-08-01,Primer chequeo,Kit inicial cachorro,Saludable
+20,1,2026-04-25,Otitis externa,Limpieza de canal auricular,Recuperado
